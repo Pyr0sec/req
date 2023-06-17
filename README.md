@@ -20,3 +20,7 @@ options:
 ### cases where req.py can be used
 - Including every header in tools like curl seems too much of a hassle
 - you want to send these requests n number of times and just want to observe behaviour
+- you don't wanna use burp intruder.
+
+### Todo
+- [ ] Multithreading
